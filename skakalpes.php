@@ -1,5 +1,13 @@
 #!/usr/bin/env php
 <?php
+<<<<<<< HEAD
+=======
+
+echo "Skákal pes\n";
+echo "==========\n";
+echo "\n";
+
+>>>>>>> origin/nadpis
 echo "Skákal pes,\n";
 echo "přes oves,\n";
 echo "přes zelenou louku.\n";
